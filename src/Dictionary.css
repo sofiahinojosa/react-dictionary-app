@@ -1,5 +1,5 @@
 .Dictionary section {
-  background: white;
+  background: whitesmoke;
   padding: 30px;
   border-radius: 6px;
   box-shadow: 0 10px 10px rgb(0 0 0 / 10%);
@@ -11,4 +11,8 @@
   padding: 6px 4px;
   color: #333;
   border: 1px solid #ddd;
+}
+
+.Dictionary small {
+  font-size: 11px;
 }

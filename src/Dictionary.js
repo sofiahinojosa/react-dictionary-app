@@ -28,6 +28,7 @@ export default function Dictionary() {
       <form onSubmit={search} >
         <input placeholder="Enter a word here" type="search" onChange={handleKeywordChange} />
       </form>
+      <small>Coded by <a href="https://www.instagram.com/sofiahinojosadl_/">Sofia Hinojosa</a> and is open-sourced in <a href="https://github.com/sofiahinojosa/react-dictionary-app">GitHub</a></small>
       </section>
       <Results results={results} />
     </div>
