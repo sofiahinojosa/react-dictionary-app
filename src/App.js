@@ -1,6 +1,6 @@
 import './App.css';
-import Dictionary from "./Dictionary"
-import { Brb } from "react-brb"
+import Dictionary from "./Dictionary";
+import { Brb } from "react-brb";
 
 export default function App() {
   return (

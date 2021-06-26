@@ -1,5 +1,14 @@
-input {
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  border-radius: 6px;
+  box-shadow: 0 10px 10px rgb(0 0 0 / 10%);
+  margin: 20px 50px;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 6px 4px;
+  color: #333;
+  border: 1px solid #ddd;
 }
